@@ -1,0 +1,4 @@
+venv/
+train/
+validation/
+train3-90.h5
